@@ -1,0 +1,15 @@
+{
+  "name": "Stefanpad",
+  "displayName": "Stefanpad",
+  "expo": {
+    "name": "Stefanpad",
+    "slug": "Stefanpad",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.g2.stefanpad"
+    }
+  }
+}
