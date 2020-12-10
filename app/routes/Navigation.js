@@ -1,3 +1,8 @@
+/* Roses are red
+   Violets are blue
+   Navigation finally works
+   But the rest does not */
+
 import {createStackNavigator} from 'react-navigation-stack';
 import React from 'react';
 import {createAppContainer} from 'react-navigation';
